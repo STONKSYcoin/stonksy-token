@@ -1,0 +1,13 @@
+{
+  "name": "STONKSY Coin",
+  "symbol": "STONKSY",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "stonksy",
+  "platform": {
+    "name": "Binance Smart Chain",
+    "symbol": "BNB",
+    "token_address": "0x9E16e49411E29EA2E76Cf07951c285C0864A03C5"
+  }
+}
